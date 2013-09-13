@@ -1,0 +1,14 @@
+jedi-vim
+minibufexpl.vim
+neobundle.vim
+nerdtree
+python-mode
+scss-syntax.vim
+vim-airline
+vim-coffee-script
+vim-fugitive
+vim-haml
+vim-javascript
+vim-surround
+vim-virtualenv
+vimproc
